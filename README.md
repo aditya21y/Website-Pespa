@@ -1,2 +1,2 @@
 # Website-Pespa
-Pespa (prediksi stunting pada anak)
+Pespa (prediksi stunting pada anak) merupakan aplikasi berbasis website yang dibuat untuk melakukan prediksi kondisi stunting pada anak dengan fokus kasus pada Kecamatan Pitu, Kabupaten Ngawi. Aplikasi dibuat dengan memanfaatkan data yang diperoleh dari kegiatan posyandu yang dilaksanakan oleh puskesmas pitu, dan dengan data tersebut dibuat model klasifikasi dengan menggunakan 3 algoritma machine learning yang berbeda yaitu Random forest, CNN, dan Naive Bayes.
